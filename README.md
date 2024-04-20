@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate android developer from India</h3>
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranbudkule04&label=Profile%20views&color=0e75b6&style=flat" alt="simranbudkule04" /> </p>
 
 - 🌱 I’m currently learning **Kotlin**
