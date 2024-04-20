@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android,React**
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="simranbudkule04" alt="simranbudkule04" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
