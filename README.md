@@ -6,7 +6,7 @@
 <img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranbudkule04&label=Profile%20views&color=0e75b6&style=flat" alt="simranbudkule04" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android,React Native**
 
