@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Simran+Budkule!;" />
 </h1>
 
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android and web developer from India</h3>
 <img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranbudkule04&label=Profile%20views&color=0e75b6&style=flat" alt="simranbudkule04" /> </p>
 
